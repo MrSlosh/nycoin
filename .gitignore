@@ -8,7 +8,6 @@ src/test_newyorkc
 *.rej
 *.orig
 *.o
-*.patch
 .newyorkc
 
 # Compilation and Qt preprocessor part
